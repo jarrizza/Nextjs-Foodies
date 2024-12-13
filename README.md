@@ -1,5 +1,5 @@
 # Nextjs-Foodies
-simple react/nextjs app to allow recipes to be saved
+simple app to allow recipes to be saved using Next App Router
 
 # Tech Stack
 React 18, 
